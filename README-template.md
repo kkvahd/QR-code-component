@@ -73,5 +73,5 @@ This piece of code below was all I needed to develop this page
 ## Author
 
 - Website - [Karthik Vanka]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kkvahd)
+- Frontend Mentor - [@kkvahd](https://www.frontendmentor.io/profile/kkvahd)
 - Twitter - [@kkvahd](https://www.twitter.com/kkvahd)
