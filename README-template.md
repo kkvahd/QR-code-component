@@ -21,14 +21,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![1](./images/web.png)
- [2] (./images/mobile.png)
+(./images/web.png)
+(.images/mobile.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/kkvahd/QR-code-component/blob/main/index.html)
+- Live Site URL: (https://kkvahd.github.io/QR-code-component/)
 
 ## My process
 
