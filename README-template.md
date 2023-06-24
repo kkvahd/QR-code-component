@@ -10,12 +10,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -32,14 +28,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
+I leveraged the Bootstrap library to create this project. I used the grid layout and the card component.
+I combined these with Google fonts, and flexbox.
+
 ### Built with
 
 - HTML5
 - CSS3
 - Flexbox
-- [Bootstrap] (https://getbootstrap.com/)
-- Bootstrap Grid
-- Bootstrap Card
+- [Bootstrap](https://getbootstrap.com/)
+- [Bootstrap Grid](https://getbootstrap.com/docs/5.3/layout/grid/)
+- [Bootstrap Card](https://getbootstrap.com/docs/5.3/components/card/)
 
 ### What I learned
 
